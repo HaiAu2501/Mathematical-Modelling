@@ -162,3 +162,4 @@ cython_debug/
 # Hidden my personal files
 .private/
 .bin/
+.vscode/
